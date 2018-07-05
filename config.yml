@@ -91,7 +91,7 @@ drupal_db_name: drupal
 drupal_db_host: localhost
 
 # Settings for installing a Drupal site if 'drupal_install_site:' is 'true'.
-drupal_major_version: 7
+drupal_major_version: 8
 drupal_domain: "{{ vagrant_hostname }}"
 drupal_site_name: "Drupal"
 drupal_install_profile: standard
